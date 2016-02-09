@@ -8,4 +8,5 @@ class ApplicationController < ActionController::Base
   end
   def bye
    render text: "さらばだ、愛しき友よ！"
+  end
 end
